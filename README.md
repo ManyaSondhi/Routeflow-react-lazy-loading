@@ -39,13 +39,13 @@ dashboard-profile-version/
 
 
 #### 🏠 Dashboard Page
-![Dashboard](/Component-based switching (Dashboard & Profile)/screenshots/dashboard.png)
+![Dashboard](\/screenshots/dashboard.png)
 
 #### 👤 Profile Page
-![Profile](/Component-based switching (Dashboard & Profile)/screenshots/profile.png)
+![Profile](/screenshots/profile.png)
 
 #### ⏳ Loading State
-![Loading Component](/Component-based switching (Dashboard & Profile)/screenshots/loading.png)
+![Loading Component](/screenshots/loading.png)
 
 ---
 📌 Description
@@ -76,13 +76,13 @@ router-version/
     └── Contact.jsx
 
 #### 🏠 Home Page loading state
-![Home](/Route-based navigation using React Router/public/screenshots/home.png)
+![Home](/screenshots/home page.png)
 
 #### ℹ️ About Page loading state
-![About](/Route-based navigation using React Router/public/screenshots/about.png)
+![About](/screenshots/about page.png)
 
 #### 📞 Contact Page loading state
-![Contact](/Route-based navigation using React Router/public/screenshots/contact.png)
+![Contact](/screenshots/contact page.png)
 
 Loading message shown during route transitions.
 
