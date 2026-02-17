@@ -39,7 +39,7 @@ dashboard-profile-version/
 
 
 #### 🏠 Dashboard Page
-![Dashboard](\/screenshots/dashboard.png)
+![Dashboard](/screenshots/dashboard.png)
 
 #### 👤 Profile Page
 ![Profile](/screenshots/profile.png)
@@ -76,13 +76,13 @@ router-version/
     └── Contact.jsx
 
 #### 🏠 Home Page loading state
-![Home](/screenshots/homepage.png)
+![Home](/screenshots/home.png)
 
 #### ℹ️ About Page loading state
-![About](/screenshots/aboutpage.png)
+![About](/screenshots/about.png)
 
 #### 📞 Contact Page loading state
-![Contact](/screenshots/contactpage.png)
+![Contact](/screenshots/contact.png)
 
 Loading message shown during route transitions.
 
