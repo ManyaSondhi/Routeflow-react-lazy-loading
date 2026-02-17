@@ -1,0 +1,60 @@
+/* Reset everything */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  width: 100%;
+  height: 100%;
+}
+
+/* FORCE full screen layout */
+.app-container {
+  position: fixed;     /* KEY FIX */
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;   /* horizontal center */
+  align-items: center;       /* vertical center */
+  background: #0f172a;
+}
+
+/* Card */
+.page-card {
+  background: #1e293b;
+  color: white;
+  padding: 40px;
+  width: 400px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Top buttons */
+.top-buttons {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 30px;
+}
+
+.top-buttons button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 8px;
+  background: #334155;
+  color: white;
+  cursor: pointer;
+}
+
+.top-buttons button:hover {
+  background: #475569;
+}
+
+.content-section {
+  text-align: center;
+}
