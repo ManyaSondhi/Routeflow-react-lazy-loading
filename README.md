@@ -76,13 +76,13 @@ router-version/
     └── Contact.jsx
 
 #### 🏠 Home Page loading state
-![Home](/screenshots/home page.png)
+![Home](/screenshots/homepage.png)
 
 #### ℹ️ About Page loading state
-![About](/screenshots/about page.png)
+![About](/screenshots/aboutpage.png)
 
 #### 📞 Contact Page loading state
-![Contact](/screenshots/contact page.png)
+![Contact](/screenshots/contactpage.png)
 
 Loading message shown during route transitions.
 
